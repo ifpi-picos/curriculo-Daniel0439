@@ -1,0 +1,26 @@
+img{
+    border-radius: 100%;
+}
+body{
+    width: 90%;
+    background-color:crimson;
+    margin: 0 auto;
+    border: 3px solid honeydew;
+    padding: 10px;
+}
+
+h3{
+    border:2px solid #fff;
+    border-radius: 10px;
+}
+
+h1,h3,p,li,footer{
+    color:#fff
+}
+
+img.centraliza{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
