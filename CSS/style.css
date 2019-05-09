@@ -24,3 +24,8 @@ img.centraliza{
     margin-right: auto;
 
 }
+.imagem{
+    display: inline-block;
+    vertical-align: top;
+    width: 5%;
+}
